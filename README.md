@@ -1,4 +1,4 @@
-# Getting Started!
+# Birthday Site!
 Install the dependencies and run the project
 ```
 npm install
